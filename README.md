@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nur Bülbül.</h1>
 <h3 align="center">An aspiring backend developer with a passion for Java and C#, I thrive on unraveling complexities through code. Constantly evolving in my junior role, I craft solutions that merge innovation with solid programming principles. Eager to contribute, I'm dedicated to refining my craft and leaving an indelible mark in the realm of backend development.</h3>
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6](https://i.giphy.com/26tn33aiTi1jkl6H6.webp)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurrbb&label=Profile%20views&color=0e75b6&style=flat" alt="nurrbb" /> </p>
 
