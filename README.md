@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nur Bülbül.</h1>
+
+![head9](https://github.com/nurrbb/nurrbb/assets/59769129/3e967c7b-81fd-4428-9e03-96a039b2d773)
+
 <h3 align="center">An aspiring backend developer with a passion for Java and C#, I thrive on unraveling complexities through code. Constantly evolving in my junior role, I craft solutions that merge innovation with solid programming principles. Eager to contribute, I'm dedicated to refining my craft and leaving an indelible mark in the realm of backend development.</h3>
 
 
