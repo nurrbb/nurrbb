@@ -9,7 +9,6 @@
 <div>
   <img align="right" width="475" src="https://github.com/nurrbb/nurrbb/assets/59769129/cd36cb65-cb91-4006-89d8-fd698a4a09fc">
   
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurrbb&label=Profile%20views&color=0e75b6&style=flat" alt="nurrbb" /> </p>
 
   - 📫 How to reach me **enurb320@gmail.com**
 
