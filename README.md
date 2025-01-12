@@ -25,7 +25,6 @@
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurrbb&show_icons=true&locale=en" alt="nurrbb" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurrbb&" alt="nurrbb" /></p>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nurrbb/nurrbb/output/github-contribution-grid-snake-dark.svg">
