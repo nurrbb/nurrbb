@@ -7,9 +7,6 @@
 <h3 align="center"> My focus is on creating innovative solutions while adhering to solid programming principles. A lasting impact in backend development is something I am eager to continue learning towards. </h3>
 
 
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nurrbb/nurrbb/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nurrbb/nurrbb/output/github-contribution-grid-snake.svg">
