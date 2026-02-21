@@ -7,10 +7,7 @@
 <h3 align="center"> My focus is on creating innovative solutions while adhering to solid programming principles. A lasting impact in backend development is something I am eager to continue learning towards. </h3>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nurrbb&show_icons=true&locale=en&layout=compact" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nurrbb&show_icons=true&locale=en" align="right" />
-</p>
+
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
   <picture>
